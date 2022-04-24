@@ -6,6 +6,6 @@ package com.hty;
  **/
 public class shuangyan {
     public static void main(String[] args) {
-
+        System.out.println("shuangyangnasngnsgnmsgd");
     }
 }
